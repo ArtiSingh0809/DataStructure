@@ -6,7 +6,7 @@
   <name>SpringExample1</name>
   
   <properties>
-		<spring.framework>4.3.0.RELEASE</spring.framework>
+		<spring.framework>5.3.18</spring.framework>
 	</properties>
 
 	<dependencies>
